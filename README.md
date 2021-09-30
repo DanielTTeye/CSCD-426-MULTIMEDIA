@@ -41,11 +41,4 @@ This is an E-commerce site Landing Page inspired by posts on Pinterest.
 - HTML5 markup
 - [Scss (Sassy CSS)](https://sass-lang.com/)
 - Javascript, and using
-- Mobile-first workflow
-
-
-
-## Author
-
-- Github - [CHR-onicles](https://www.github.com/CHR-onicles)
-- LinkedIn - [Divine Anum](https://www.linkedin.com/in/divineanum/)
+- Mobile-first workfLOW
