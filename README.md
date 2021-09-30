@@ -1,3 +1,6 @@
+ID:10665905-TEYE DANIEL TETTEH
+ID:10665469-REGINALD ODURO KWARTENG
+
 # CHR-mart
 
 This is an E-commerce site Landing Page inspired by posts on Pinterest.
@@ -28,16 +31,15 @@ This is an E-commerce site Landing Page inspired by posts on Pinterest.
 
 ### Links
 
-- Source Code URL: [My source code](https://github.com/CHR-onicles/CHR-mart)
+- Source Code URL: [My source code](https://github.com/DanielTTeye/CSCD-426-MULTIMEDIA)
 - Live Site URL: [Live site](https://chr-mart.vercel.app)
 
 
 ## My process
 
 ### Built with
-- Semantic HTML5 markup
+- HTML5 markup
 - [Scss (Sassy CSS)](https://sass-lang.com/)
-- [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 - Javascript, and using
 - Mobile-first workflow
 
@@ -47,7 +49,3 @@ This is an E-commerce site Landing Page inspired by posts on Pinterest.
 
 - Github - [CHR-onicles](https://www.github.com/CHR-onicles)
 - LinkedIn - [Divine Anum](https://www.linkedin.com/in/divineanum/)
-
-
-## Credits
-- [Dukamarket](https://dukamarket.kutethemes.net/)
