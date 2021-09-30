@@ -41,10 +41,6 @@ This is an E-commerce site Landing Page inspired by posts on Pinterest.
 - Javascript, and using
 - Mobile-first workflow
 
-### What I learned
-I really enjoyed practising CSS grids with this one, I also got to use Sass for the first time while following its 7-1 architecture which made things really convenient for me.
-<br>
-I learnt how to integrate libraries like Owl Carousel with JQUERY into my work and modify some of its components.
 
 
 ## Author
